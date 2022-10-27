@@ -1,23 +1,31 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'DP.jpeg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
   - Python
+  - ReactJS
+  - Redux
+  - TypeScript
+  - C++
+  - Docker
+  - PySpark
+  - SQL
+  - AWS
+  - Git
+  - Tensorflow
+  - PyTorch
+  - Keras
+  - NLTK
+  - scikit
+  - matplotlib
+  - pandas
+  - CUDA
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! I am pursuing my masters in Computer Science at [Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/) with concentration in Machine Learning. I have succesfully completed some amazing courses like Computational Robotics, Brain Inspired Computing and Artificial Intelligence with grade of [3.75 GPA](https://drive.google.com/file/d/10LA9my1dyQeCYix5ZEdQc-M1yjvXGIiP/view?usp=sharing).
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+I completed my Bachelors in Computer Engineering (2016-2020) from [University of Pune](http://www.unipune.ac.in/) with [8.99 GPA](https://drive.google.com/file/d/1m2uyUJml5XhMlLTvsZsuYL3Y0TBTLUlL/view?usp=sharing).
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
-
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+I recently worked as an Application Developer Intern for **ADP** in the SRE DevOps team. My responsibilty include full stack developement using ReactJS/Redux/Python and deployment using Docker.
 
 Here is a list of the technologies that I'm familiar with!

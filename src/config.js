@@ -1,38 +1,34 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Shreyas Kulkarni',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Shreyas Kulkarni is studying Computer Science at Rutgers University.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Shreyas Kulkarni, software developer, software engineer, data scientist, jobs, full stack developer, adp, rutgers university',
+  siteUrl: 'https://shreyaskulkarni.me/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Shreyas Kulkarni',
+  location: 'USA',
+  email: 'shreyaspkulkarni7@gmail.com',
+  github: 'https://github.com/shreyaspkulkarni',
+  twitterHandle: '@iamshreyasss',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/shreyaspkulkarni',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/shreyaspkulkarni/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/iamshreyasss',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/iamshreyasss',
     },
   ],
 
@@ -45,10 +41,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Projects',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Projects',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
