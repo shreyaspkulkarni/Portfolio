@@ -26,6 +26,6 @@ Hello! I am pursuing my masters in Computer Science at [Rutgers University-New B
 
 I completed my Bachelors in Computer Engineering (2016-2020) from [University of Pune](http://www.unipune.ac.in/) with [8.99 GPA](https://drive.google.com/file/d/1m2uyUJml5XhMlLTvsZsuYL3Y0TBTLUlL/view?usp=sharing).
 
-I recently worked as an Application Developer Intern for **ADP** in the SRE DevOps team. My responsibilty include full stack developement using ReactJS/Redux/Python and deployment using Docker.
+I recently worked as an Application Developer Intern for **ADP** in the SRE DevOps team where I worked on full stack developement using ReactJS/Redux/Python and deployment using Docker.
 
 Here is a list of the technologies that I'm familiar with!
