@@ -2,7 +2,7 @@
 date: '3'
 title: 'Abstract Visual Reasoning Task'
 cover: 'RPM.png'
-github: 'https://github.com/shreyaspkulkarni/CS-536-Machine-Learning-Project---Abstract-Visual-Reasoning'
+github: 'https://github.com/shreyaspkulkarni/Abstract-Visual-Reasoning-Task-using-MRNET'
 tech:
   - Jupyter Notebook
   - TensorFlow
