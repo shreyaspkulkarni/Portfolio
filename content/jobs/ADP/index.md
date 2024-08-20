@@ -1,7 +1,7 @@
 ---
 date: '2022-10-26'
 title: 'Application Developer Intern'
-company: 'ADP'
+company: 'ADP(Internship)'
 range: 'Jun 2022 - Aug 2022'
 url: 'https://www.adp.com/'
 ---

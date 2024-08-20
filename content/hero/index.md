@@ -7,8 +7,8 @@ buttonText: 'Contact Me'
 
 I'm a passionate individual who always thrive to work on end to end products.
 
-Currently pursuing masters in Computer Science at Rutgers University-New Brunswick.
+Currently working as an Associate Application Developer at ADP.
 
-Recently, I worked as an Application Developer Intern at ADP.
+I graduated with masters in Computer Science at Rutgers University-New Brunswick.
 
 I occasionally sketch my thoughts [here](https://in.pinterest.com/shreyaspk10/)!
