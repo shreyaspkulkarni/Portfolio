@@ -1,4 +1,6 @@
-Node version: v16.16.0
+** Node version: v16.16.0 **
+
+Run Commands:
 
 - nvm use 16
 
@@ -7,7 +9,10 @@ Node version: v16.16.0
 - gatsby build
 
 
+Auto Deployment on https://vercel.com/shreyaspkulkarnis-projects
+
 
 Alternative Commands:
 
 -  npm install -g gatsby-cli
+
