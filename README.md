@@ -1,6 +1,6 @@
-Node version: v16.16.0
+Node version: v20
 
-- nvm use 16
+- nvm use 20
 
 - npm install --legacy-peer-deps
 
