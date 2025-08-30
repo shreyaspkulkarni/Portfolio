@@ -6,15 +6,13 @@
 
   - source ~/.nvm/nvm.sh
 
-  - nvm install node (version 16)
+  - nvm install 20
 
-  - npm install -g yarn
-
-  - yarn
+  - nvm use 20
 
   - npm install -g gatsby-cli
 
-  - npm install
+  - npm install --legacy-peer-deps
 
   - git add .
 
